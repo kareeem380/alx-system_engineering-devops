@@ -1,2 +1,8 @@
 #!/bin/bash
-export HOLBERTON="Betty"
+
+# create a new global variable named "BEST" with value "School"
+export BEST="School"
+
+# print the value of the "BEST" variable to verify that it was set correctly
+echo "The value of BEST is: $BEST"
+
